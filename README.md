@@ -3,8 +3,9 @@ Web-API for [kanye.rest](https://kanye.rest) website to get random Kanye West qu
 
 ## Example
 ```python
-import kanye_rest
-kanye_rest = kanye_rest.KanyeRest()
+from kanye_rest import KanyeRest
+
+kanye_rest = KanyeRest()
 random_quote = kanye_rest.get_random_quote()
 print(random_quote)
 ```
