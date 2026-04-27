@@ -1,5 +1,5 @@
 # kanye_rest.py
-Web-API for [kanye.rest](https://kanye.rest) website to get random Kanye West quotes
+Web-API for [kanye.rest](https://kanye.rest) A free REST API for random Kanye West quotes (Kanye as a Service)
 
 ## Example
 ```python
