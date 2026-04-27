@@ -11,6 +11,7 @@
 
 ```python
 from kanye_rest import KanyeRest
+
 kanye = KanyeRest()
 
 # Get a random quote
